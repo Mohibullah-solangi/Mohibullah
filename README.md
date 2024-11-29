@@ -53,11 +53,6 @@ I'm a **Frontend Developer** with extensive experience in building web applicati
 
 Feel free to explore my repositories, connect with me, or contribute to my ongoing projects!
 
----
-
-## 📊 GitHub Stats
-
-![Mohib Ullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohibullah-solangi&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
 
 ---
 
