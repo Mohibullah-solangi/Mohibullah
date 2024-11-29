@@ -47,7 +47,7 @@ I'm a **Frontend Developer** with extensive experience in building web applicati
 - Learning more about backend services like **Supabase** to streamline full-stack development.
 
 ### 📫 How to Reach Me:
-- **Email**: [mohibullah@example.com](mailto:mohibullah@example.com)
+- **Email**: [mohib0197@gmail.com](mailto:mohib0197@gmail.com)
 - **LinkedIn**: [Mohib Ullah LinkedIn](https://www.linkedin.com/in/mohibullah-solangi)
 - **Portfolio**: [Mohib Ullah Portfolio](https://www.mohibullah-portfolio.com)
 
